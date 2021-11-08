@@ -9,7 +9,6 @@ namespace Business.Logic
     public class ComisionLogic: BusinessLogic
     {
         ComisionAdapter comisionData;
-
         public ComisionLogic()
         {
             comisionData = new ComisionAdapter();
